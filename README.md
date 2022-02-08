@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garrett-a
-- 👀 I’m interested in becoming a self-taught front end developer
-- 🌱 I’m currently learning Javascript and am about to start React
+- 👀 I’m a self-taught front end developer
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any projects that I can contribute on at my level
 - 📫 How to reach me garrettaldridge@gmail.com
 
